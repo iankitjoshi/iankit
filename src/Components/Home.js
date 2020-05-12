@@ -5,8 +5,10 @@ function Home(props){
     return(
         <div className="home-page">
             <div>
-                <h1 className="h1-home">- Ankit Joshi -</h1>
-                <h6 className="h6-home">Working...  Will be Soon...!</h6>
+                {/* <h2 className="h1-home">Working...  Will be Soon...!</h2> */}
+                <h1>.</h1>
+                <h1>.</h1>
+
               
 
                 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
