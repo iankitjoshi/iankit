@@ -117,7 +117,7 @@
   .logo-img{
     position: absolute;
     top: 4%;
-    left: 2%;
+    left: 3%;
     width: 8%;
     height: auto;
     transition: width 2s, height 2s, transform 2s;
@@ -142,10 +142,11 @@
   }
 
   .about-p{
-    font-family: 'Roboto Slab', serif;
+    font-family: 'PT Serif', serif;    
     color: rgb(73, 71, 70);
     margin-left: 2%;
     line-height: 1.6;
+    font-size: 1.29vw;
   }
 
   .techindustan{
@@ -157,7 +158,7 @@
   }
 
   .contact-h3{
-    font-family: 'Roboto Slab', serif;
+    font-family: 'PT Serif', serif;    
     font-size: 2.7vw;
     position: absolute;
     margin-top: 2%;
