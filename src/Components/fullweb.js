@@ -1,14 +1,20 @@
 import React from 'react'
 import Homes from './Homes'
-import Home from './Home'
+import Home from './icons'
+import About from './AboutMe'
+import Contcat from './Contact'
 
 function FullWeb(){
     return(
-        <div>
+        <div style={{border: '6px solid rgb(73,70,71)'}}>
 
             <Homes />
 
-            <Home />
+            <About />
+
+            <Contcat />
+
+            {/* <Home /> */}
 
         </div>
     )
