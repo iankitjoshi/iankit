@@ -92,32 +92,36 @@
   /* ///////////////// Homes ///////////// */
 
   .home-img{
-    width: 100%;
+    margin-top: 24%;
+    width: 94%;
     height: auto;
+    margin-left: 3%;
+    margin-right: 3%;
+    
   }
 
   .containers {
     position: relative;
-    text-align: center;
     color: rgb(73, 71, 70);
     font-size: small;
   }
 
   .centered {
+    margin-top: 18%;
     position: absolute;
     top: 37%;
-    left: 49.5%;
+    left: 46%;
     transform: translate(-50%, -50%);
-    font-family: 'Roboto Slab', serif;
-    line-height: 1.6;
-    text-shadow: .2px .2px rgb(7, 3, 46);
-    font-size: 2.99vw;
+    font-family: Georgia,serif;
+    line-height: 1.5;
+    text-shadow: .2px .2px rgb(6, 3, 36);
+    font-size: 3vw;
   }
 
   .logo-img{
     position: absolute;
-    top: 4%;
-    left: 3%;
+    top: 115%;
+    left: 4%;
     width: 8%;
     height: auto;
     transition: width 2s, height 2s, transform 2s;
