@@ -11,7 +11,7 @@ function Homes(){
             
             <div className="containers">
                 <img src={img1} className="logo-img" width="100" />
-                <h1 className="centered">Hello, i'm Ankit. Full Stack Developer, I design & build user interfaces. </h1> <br/>
+                <h1 className="centered">Hello, I'm Ankit. Full Stack Developer, I design & build user interfaces. </h1> <br/>
             
             </div>
             <img src={img} className="home-img" />

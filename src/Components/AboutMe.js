@@ -14,7 +14,7 @@ function About(){
 
                 <h4 className="about-h4">About:</h4>
                     <br />
-                    <p className="about-p">I am currently working as a Full Stack Developer at <span className="techindustan"> <u><a style={{color:'#f6ac00'}} href="https://techindustan.com/" target="_blank">tecHindustan </a>  </u></span>, which is where my passion for design and development converge. I've been developing applications and making Website using Javascript, React and Node. I love to crete something diffrent like my imagination. Outside of work, I live in <span className="alwar"><u><a style={{color:'#f6ac00'}}href="https://en.wikipedia.org/wiki/Alwar" target="_blank">Alwar </a>  </u></span>. I love spending time with friends and family and i like playing and watch Cricket. I'm foody i love to eat, and Tea lover also. I like Adventures and go to where I've never been before. I'd love to get tea and get to know you, so don’t hesitate to get in touch.</p><br /><br />
+                    <p className="about-p">I am currently working as a Full Stack Developer at <span className="techindustan"> <u><a style={{color:'#f6ac00'}} href="https://techindustan.com/" target="_blank">tecHindustan</a>  </u></span>, which is where my passion for design and development converge. I've been developing applications and making Websites using Javascript, React, and Node. I love to create something different like my imagination. Outside of work, I live in <span className="alwar"><u><a style={{color:'#f6ac00'}}href="https://en.wikipedia.org/wiki/Alwar" target="_blank">Alwar</a>  </u></span>. I love spending time with friends and family and I like playing and watch Cricket. I'm foodie I love to eat, and Tea lover also. I like Adventures and go to where I've never been to before. I'd love to get tea and get to know you, so don’t hesitate to get in touch.</p><br /><br />
                 <h4 className="about-h4">Services:</h4>
                     <br />
                     <h6 className="about-h6">UI/UX DESIGN</h6>
@@ -23,11 +23,11 @@ function About(){
 
                     <h6 className="about-h6">FRONT END DEVELOPMENT</h6>
                     <br />
-                    <p className="about-p">Front End Development is building out the visual components of a website. Using HTML, CSS, Javascript and React, I build fast, interactive websites. This also may include integrating a CMS.</p><br />
+                    <p className="about-p">Front End Development is building out the visual components of a website. Using HTML, CSS, Javascript, and React, I build fast, interactive websites. This also may include integrating a CMS.</p><br />
 
                     <h6 className="about-h6">BACK END DEVELOPMENT</h6>
                     <br />
-                    <p className="about-p">Back end Development refers to the server side of development where you are primarily focused on how the site works. I'm using NodeJS with User Authentication.</p>
+                    <p className="about-p">Back end Development refers to the server-side of development where you are primarily focused on how the site works. I'm using NodeJS with User Authentication.</p>
     
             </div>
             <br /><br /><hr />
