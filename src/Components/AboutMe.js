@@ -12,7 +12,7 @@ function About(){
 
             <div className="container">
 
-                <h4 className="about-h4">About:</h4>
+                <h4 className="about-h4">About:</h4> 
                     <br />
                     <p className="about-p">I am currently working as a Full Stack Developer at <span className="techindustan"> <u><a style={{color:'#f6ac00'}} href="https://techindustan.com/" target="_blank">tecHindustan</a>  </u></span>, which is where my passion for design and development converge. I've been developing applications and making Websites using Javascript, React, and Node. I love to create something different like my imagination. Outside of work, I live in <span className="alwar"><u><a style={{color:'#f6ac00'}}href="https://en.wikipedia.org/wiki/Alwar" target="_blank">Alwar</a>  </u></span>. I love spending time with friends and family and I like playing and watch Cricket. I'm foodie I love to eat, and Tea lover also. I like Adventures and go to where I've never been to before. I'd love to get tea and get to know you, so don’t hesitate to get in touch.</p><br /><br />
                 <h4 className="about-h4">Services:</h4>
