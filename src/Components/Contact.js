@@ -13,7 +13,7 @@ function Contcat(){
             <Icon />
             <br /><br /> <hr />
 
-             <h6 style={{marginTop:'4%',marginBottom:'2%'  , fontFamily:"'Roboto Slab', 'serif'"}}>Copyright Ankit Joshi 2020.</h6><br/>
+             <h6 style={{marginTop:'4%',marginBottom:'2%'  , fontFamily:"'Roboto Slab', 'serif'"}}>Copyright Ankit Joshi {new Date().getFullYear()}.</h6><br/>
         </div>
     )
 }
